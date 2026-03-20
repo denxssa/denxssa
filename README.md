@@ -22,4 +22,5 @@ I'm a Computer Science student learning **Java**, **Web Development**, and build
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/denisa-gjuraj-1270b0352)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:denisagg19@gmail.com)
 ---
