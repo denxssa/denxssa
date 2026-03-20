@@ -2,11 +2,11 @@
 
 I'm a CSE student learning **Java**, **Web Development**, and building fun projects.
 ---
-![Code](https://img.shields.io/badge/I%20Love-Coding-ff69b4?style=for-the-badge)
-![Debugging](https://img.shields.io/badge/Debugging-My%20Therapy-blueviolet?style=for-the-badge)
-![Coffee](https://img.shields.io/badge/Powered%20By-Coffee-brown?style=for-the-badge&logo=buy-me-a-coffee)
-![Sleep](https://img.shields.io/badge/Sleep-Deprived-red?style=for-the-badge)
-![Bugs](https://img.shields.io/badge/Bugs-100%25%20Natural-green?style=for-the-badge)
+![Code](https://img.shields.io/badge/I%20Love-Coding-ff4d6d?style=for-the-badge&logo=code&logoColor=white)
+![Debugging](https://img.shields.io/badge/Debugging-My%20Therapy-6c63ff?style=for-the-badge&logo=bugatti&logoColor=white)
+![Coffee](https://img.shields.io/badge/Fueled%20By-Coffee-6f4e37?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)
+![Sleep](https://img.shields.io/badge/Sleep-Deprived-2c2c54?style=for-the-badge&logo=moon&logoColor=white)
+![Bugs](https://img.shields.io/badge/Bugs-Feature%20Not%20Bug-00b894?style=for-the-badge&logo=github&logoColor=white)
 ---
 
 ## 🎓 Education
@@ -30,3 +30,7 @@ I'm a CSE student learning **Java**, **Web Development**, and building fun proje
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/denisa-gjuraj-1270b0352)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denisagg19@gmail.com)
+---
+![Goal](https://img.shields.io/badge/Goal-Software%20Engineer-success?style=for-the-badge)
+![Level](https://img.shields.io/badge/Level-Upgrading-orange?style=for-the-badge)
+![Grind](https://img.shields.io/badge/Mode-Grind%20On-critical?style=for-the-badge)
