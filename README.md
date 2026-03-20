@@ -1,7 +1,12 @@
 # Hi, I'm Deni 👋
 
 I'm a CSE student learning **Java**, **Web Development**, and building fun projects.
-
+---
+![Code](https://img.shields.io/badge/I%20Love-Coding-ff69b4?style=for-the-badge)
+![Debugging](https://img.shields.io/badge/Debugging-My%20Therapy-blueviolet?style=for-the-badge)
+![Coffee](https://img.shields.io/badge/Powered%20By-Coffee-brown?style=for-the-badge&logo=buy-me-a-coffee)
+![Sleep](https://img.shields.io/badge/Sleep-Deprived-red?style=for-the-badge)
+![Bugs](https://img.shields.io/badge/Bugs-100%25%20Natural-green?style=for-the-badge)
 ---
 
 ## 🎓 Education
