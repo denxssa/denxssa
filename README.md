@@ -23,12 +23,3 @@ I'm a Computer Science student learning **Java**, **Web Development**, and build
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/denisa-gjuraj-1270b0352)
 ---
-
-## 📊 GitHub Stats
-![Deni's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
-
-## 🖼 Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
