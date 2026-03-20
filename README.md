@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Deni 👋
 
-<!--
-**denxssa/denxssa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student who is currently learning **Java** and **Web Development**.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Java,
+- HTML, CSS, JavaScript
+- Git & GitHub
+- UI/UX Design
+- 
+## Contact
+- [LinkedIn](www.linkedin.com/in/denisa-gjuraj-1270b0352)
+- [Email](mailto:denisagg19@example.com)
