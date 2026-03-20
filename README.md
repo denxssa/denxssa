@@ -1,6 +1,6 @@
 # Hi, I'm Deni 👋
 
-I'm a Computer Science student learning **Java**, **Web Development**, and building fun projects.
+I'm a CSE student learning **Java**, **Web Development**, and building fun projects.
 
 ---
 
