@@ -2,7 +2,7 @@
 <a name="top"></a>
 
 <h1 align="center">
-  Deni
+  Denisa Gjuraj
 </h1>
 
 <p align="center">
