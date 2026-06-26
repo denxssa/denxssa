@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/denxssa">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=520&lines=Computer+Science+Student;Java+%26+Web+Developer;Building+clean%2C+full-stack+apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=520&lines=Computer+Science+Student;Building+clean%2C+full-stack+apps" alt="Typing SVG" />
   </a>
 </p>
 
