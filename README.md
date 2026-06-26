@@ -66,9 +66,9 @@
 
 <table align="center">
   <tr>
-    <td align="center"><b><a href="#">Project One</a></b><br/><sub>Short one-line description</sub><br/><br/><img src="https://skillicons.dev/icons?i=java&theme=dark" height="28"/></td>
-    <td align="center"><b><a href="#">Project Two</a></b><br/><sub>Short one-line description</sub><br/><br/><img src="https://skillicons.dev/icons?i=react&theme=dark" height="28"/></td>
-    <td align="center"><b><a href="#">Project Three</a></b><br/><sub>Short one-line description</sub><br/><br/><img src="https://skillicons.dev/icons?i=laravel&theme=dark" height="28"/></td>
+    <td align="center"><b><a href="#">Churn-resc</a></b><br/><sub>finance</sub><br/><br/><img src="https://skillicons.dev/icons?i=java&theme=dark" height="28"/></td>
+    <td align="center"><b><a href="#">Recruitment</a></b><br/><sub>Recruit&find job with efficiency</sub><br/><br/><img src="https://skillicons.dev/icons?i=react&theme=dark" height="28"/></td>
+    <td align="center"><b><a href="#">Study App</a></b><br/><sub>flashcards+AI</sub><br/><br/><img src="https://skillicons.dev/icons?i=laravel&theme=dark" height="28"/></td>
   </tr>
 </table>
 
