@@ -2,7 +2,7 @@
 <a name="top"></a>
 
 <h1 align="center">
-  Denisa Gjuraj
+── ⋅ Denisa Gjuraj ⋅ ──
 </h1>
 
 <p align="center">
@@ -20,31 +20,29 @@
 <br/>
 
 <!-- ===== ABOUT ===== -->
-### 👨‍💻 &nbsp;About Me
+### ✮⋆˙ About Me &nbsp;
 
 ```text
 🎓  Computer Science @ UBT  ·  2024 – 2027
-🧩  Focused on full-stack development — clean, functional apps
-🌱  Currently sharpening:  Java · React · Laravel
-🎯  2026 goals:  ship real projects · GitHub Foundations · AI-900
-📫  Reach me:  deniixsa18@gmail.com
+.☘︎ ݁˖  Focused on full-stack development — clean, functional apps
+✎  Currently sharpening:  Java · React · Laravel
+➶ ˚  2026 goals:  ship real projects · Code today what I couldn't yesterday. · Writing code I'd be proud to maintain.
+✉  Reach me:  deniixsa18@gmail.com
 ```
 
 <br/>
 
 <!-- ===== TECH STACK ===== -->
-### 🛠️ &nbsp;Tech Stack
-
+### ✮⋆˙ &nbsp;Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,js,php,html,css&theme=dark" alt="Languages"/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=react,laravel,git,github,vscode&theme=dark" alt="Frameworks & Tools"/>
+  <img src="https://skillicons.dev/icons?i=react,laravel,mysql,git,github,vscode&theme=dark" alt="Frameworks & Tools"/>
 </p>
-
 <br/>
 
 <!-- ===== STATS ===== -->
-### 📊 &nbsp;GitHub Analytics
+### ✮⋆˙ &nbsp;GitHub Analytics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=denxssa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=6C63FF&icon_color=6C63FF" alt="GitHub stats"/>
@@ -62,21 +60,20 @@
 <br/>
 
 <!-- ===== PROJECTS ===== -->
-### 🚀 &nbsp;Featured Projects
+### ✮⋆˙ &nbsp;Featured Projects
 
 <table align="center">
   <tr>
-    <td align="center"><b><a href="#">Churn-resc</a></b><br/><sub>finance</sub><br/><br/><img src="https://skillicons.dev/icons?i=java&theme=dark" height="28"/></td>
-    <td align="center"><b><a href="#">Recruitment</a></b><br/><sub>Recruit&find job with efficiency</sub><br/><br/><img src="https://skillicons.dev/icons?i=react&theme=dark" height="28"/></td>
-    <td align="center"><b><a href="#">Study App</a></b><br/><sub>flashcards+AI</sub><br/><br/><img src="https://skillicons.dev/icons?i=laravel&theme=dark" height="28"/></td>
+    <td align="center"><b><a href="#">Churn-resc</a></b><br/><sub>finance</sub><br/><br/><img src="https://skillicons.dev/icons?i=python,react&theme=dark" height="28"/></td>
+    <td align="center"><b><a href="#">Recruitment</a></b><br/><sub>Recruit &amp; find job with efficiency</sub><br/><br/><img src="https://skillicons.dev/icons?i=laravel,react&theme=dark" height="28"/></td>
+    <td align="center"><b><a href="#">Study App</a></b><br/><sub>flashcards + AI</sub><br/><br/><img src="https://skillicons.dev/icons?i=java&theme=dark" height="28"/></td>
   </tr>
 </table>
-
 <br/>
 
 <!-- ===== FOOTER ===== -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Always%20learning,%20always%20building-6C63FF?style=flat-square" alt="motto"/>
+ <h3 align="center">𖥔 ݁ ˖ Always learning, always building 🛸 ༄ ˖ °</h3>
 </p>
 
-<p align="center"><a href="#top">⬆ &nbsp;Back to top</a></p>
+<p align="center"><a href="#top">↑ &nbsp;Back to top</a></p>
