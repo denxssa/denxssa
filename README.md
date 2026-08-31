@@ -1,5 +1,5 @@
 <!-- ===== HEADER ===== -->
-<h1 align="center">── ⋅ Denisa Gjuraj ⋅ ──</h1>
+<h1 align="center">── ⋅ Denxsa ⋅ ──</h1>
 
 <p align="center">
   <a href="https://github.com/denxssa">
