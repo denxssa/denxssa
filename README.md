@@ -16,11 +16,10 @@
 ### ✮⋆˙ About Me
 
 ```text
-🎓  Computer Science @ UBT · 2024–2027
+🎓  Computer Science degree
 ☘︎  Full-stack development — clean, functional apps
 ✎  Sharpening: Java · React · Laravel
 ➶  2026: ship real projects · code today what I couldn't yesterday
-✉  deniixsa18@gmail.com
 ```
 
 ### ✮⋆˙ Tech Stack
